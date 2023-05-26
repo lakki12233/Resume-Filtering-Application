@@ -1,3 +1,4 @@
+//check the conditon and prints only the expreince
 import React from 'react';
 import * as Docxtemplater from 'docxtemplater';
 import PizZip from 'pizzip';
